@@ -1,0 +1,6 @@
+#ifndef GERALDSCORE_LIBRARY_H
+#define GERALDSCORE_LIBRARY_H
+
+void hello(void);
+
+#endif // GERALDSCORE_LIBRARY_H
